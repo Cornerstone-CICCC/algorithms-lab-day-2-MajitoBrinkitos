@@ -2,9 +2,9 @@
 // with the first letter of each word capitalized.
 // Example: capitalizeWords("hello world") should return "Hello World".
 
-console.log(capitalizeWords("hello world")); // Expected output: "Hello World"
+//console.log(capitalizeWords("hello world")); // Expected output: "Hello World"
 
-SOLUTION
+//SOLUTION
 
 //Variable that stores the words
 const words = "hello world";
